@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Sivagurunathan - Web Developer" width="100%">
+  <img src="./assets/banner.png" alt="Sivagurunathan - Web Developer" width="100%">
 </p>
 Hi there 👋
 Myself Sivagurunathan S,
