@@ -1,10 +1,36 @@
-<center>
-<h1>Hi there 👋</h1>
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Sivagurunathan - Web Developer" width="100%">
+</p>
+Hi there 👋
 Myself Sivagurunathan S,
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagurunathandeveloper&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Sivagurunathandeveloper">
+<img src="https://github-readme-stats.vercel.app/api?username=Sivagurunathandeveloper&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
+</a>
+
+<a href="https://github.com/Sivagurunathandeveloper">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagurunathandeveloper&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" />
+</a>
+
+</div>
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sivagurunathandeveloper&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivagurunathandeveloper&theme=tokyo-night&hide_border=true&radius=12" />
 
 </div>
 
@@ -17,4 +43,3 @@ Myself Sivagurunathan S,
 - 😄 Pronouns: I learn by building real-world projects with AI and full-stack technologies.
 - ⚡ Fun fact: I love building projects that solve real-world problems.
   
-</center>
