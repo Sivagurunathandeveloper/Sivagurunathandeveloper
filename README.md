@@ -8,13 +8,9 @@ Myself Sivagurunathan S,
 
 <div align="center">
 
-<a href="https://github.com/Sivagurunathandeveloper">
-<img src="https://github-readme-stats.vercel.app/api?username=Sivagurunathandeveloper&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
-</a>
 
-<a href="https://github.com/Sivagurunathandeveloper">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagurunathandeveloper&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" />
-</a>
+
+
 
 </div>
 
@@ -28,11 +24,7 @@ Myself Sivagurunathan S,
 
 <h3 align="center">📈 Contribution Activity</h3>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivagurunathandeveloper&theme=tokyo-night&hide_border=true&radius=12" />
-
-</div>
 
 - 🔭 I’m currently working on a project named as DISCIPLINE-OS
 - 🌱 I’m currently learning VIBE CODING
