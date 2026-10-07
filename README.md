@@ -208,12 +208,12 @@ Always building something new.
 <br>
 
 <p align="center">
-
+<centre>
 <img
   src="https://streak-stats.demolab.com?user=Sivagurunathandeveloper&theme=tokyonight&hide_border=true&border_radius=12"
   alt="GitHub Contribution Streak"
 />
-
+</centre>
 </p>
 
 
