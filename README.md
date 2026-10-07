@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Header</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
 <p align="center">
   <img src="./assets/banner.png" alt="Sivagurunathan - Web Developer" width="100%">
 </p>
@@ -5,14 +14,17 @@ Hi there 👋
 Myself Sivagurunathan S,
 
 ## 📊 GitHub Statistics
+<div class="banner">
+        <div class="slider" style="--quantity: 5">
+            <div class="item" style="--position: 1"><img src="./assets/project1.png" alt=""><h1>Discipline-OS</h1></div>
+            <div class="item" style="--position: 2"><img src="./assets/project2.png" alt=""><h1>Portiflio-OS</h1></div>
+            <div class="item" style="--position: 3"><img src="./assets/project3.png" alt=""><h1>Task_Alert</h1></div>
+            <div class="item" style="--position: 4"><img src="./assets/project4.png" alt=""><h1>Moment-Score</h1></div>
+            <div class="item" style="--position: 5"><img src="./assets/project5.png" alt=""><h1>Project 5</h1></div>
+        </div>
+        
+  </div>
 
-<div align="center">
-
-
-
-
-
-</div>
 
 <h3 align="center">🔥 Contribution Streak</h3>
 
